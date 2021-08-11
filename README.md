@@ -9,7 +9,7 @@ Sou programador e estudante de ADS no IFRN.
 
 + 🌱 Atualmente eu estou estudando um pouco de Haskell(λ), JS e Python.
 ! 📫 Você pode me encontrar aqui ou no meu email: mozartmaia89@gmail.com.
-- 🤔 Estou procurando estágio na área, então me chama que eu vou. 😄
+- 🤔 Estou procurando trabalho na área, então me chama que eu vou. 😄
 # 💬 Se você só quiser bate-papo ou me perguntar algo, fica a vontade.
 ```
 <!--
